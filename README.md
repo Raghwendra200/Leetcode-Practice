@@ -9,4 +9,8 @@
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/Raghwendra200/Leetcode-Practice/tree/master/1894-merge-strings-alternately) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Raghwendra200/Leetcode-Practice/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
